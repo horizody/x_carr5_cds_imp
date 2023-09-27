@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_carr5_cds_imp_head_count" label="Head Count" language="en" table="x_carr5_cds_imp_org">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_carr5_cds_imp_head_count</element>
+            <help/>
+            <hint/>
+            <label>Head Count</label>
+            <language>en</language>
+            <name>x_carr5_cds_imp_org</name>
+            <plural>Head Counts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>hood.dev4</sys_created_by>
+            <sys_created_on>2023-09-27 18:43:42</sys_created_on>
+            <sys_id>e52545e51b6dfd10c4af117c0a4bcb2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Head Count</sys_name>
+            <sys_package display_value="Core Data Imp" source="x_carr5_cds_imp">2c83b0e1dbed39101b326fccd39619b8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Core Data Imp">2c83b0e1dbed39101b326fccd39619b8</sys_scope>
+            <sys_update_name>sys_documentation_x_carr5_cds_imp_org_x_carr5_cds_imp_head_count_en</sys_update_name>
+            <sys_updated_by>hood.dev4</sys_updated_by>
+            <sys_updated_on>2023-09-27 18:43:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
