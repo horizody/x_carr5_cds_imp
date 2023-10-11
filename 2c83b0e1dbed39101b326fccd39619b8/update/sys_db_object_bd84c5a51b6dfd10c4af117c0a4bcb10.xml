@@ -17,7 +17,7 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Import Set Row" name="sys_import_set_row">37a7a1e0a920211076daa554cb57d9a4</super_class>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">21b029b51b131010fef3777c0a4bcbfd</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>hood.dev4</sys_created_by>
         <sys_created_on>2023-09-27 18:41:00</sys_created_on>

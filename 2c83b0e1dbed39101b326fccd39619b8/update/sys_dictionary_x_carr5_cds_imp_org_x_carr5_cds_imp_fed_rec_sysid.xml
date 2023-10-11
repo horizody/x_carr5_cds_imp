@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="x_carr5_cds_imp_fed_rec_sysid" table="x_carr5_cds_imp_org">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_fed_rec_sysid</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
