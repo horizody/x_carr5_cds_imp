@@ -9,5 +9,6 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_record_status" label="Record Status" max_length="40" name="x_carr5_cds_imp_record_status" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_sor_owner" label="SOR Owner" max_length="40" name="x_carr5_cds_imp_sor_owner" type="string"/>
         <element label="Source Instance" max_length="40" name="x_carr5_cds_imp_source_instance" type="string"/>
+        <element label="Class Name" max_length="40" name="x_carr5_cds_imp_sys_class_name" type="string"/>
     </element>
 </database>

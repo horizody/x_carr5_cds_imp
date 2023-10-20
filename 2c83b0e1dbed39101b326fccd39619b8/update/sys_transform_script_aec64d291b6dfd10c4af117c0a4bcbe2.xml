@@ -4,16 +4,13 @@
         <map display_value="ORG Transform Map">541605291b6dfd10c4af117c0a4bcbb7</map>
         <order>100</order>
         <script><![CDATA[(function runTransformScript(source, map, log, target /*undefined onStart*/ ) {
-
+    
+	target.sys_class_name = "x_carr5_coredata_org";
+	
 	if (action == "insert") {
 		target.setNewGuidValue(source.x_carr5_cds_imp_fed_rec_sysid); 
-		if(target.sys_class_name != "x_carr5_coredata_org"){
-			target.sys_class_name = "x_carr5_coredata_org";
-		}
 	}
-	if (action == "update" && target.sys_class_name != "x_carr5_coredata_org") {
-		target.sys_class_name = "x_carr5_coredata_org";
-	}
+	
 	
 	
 	
@@ -22,14 +19,14 @@
         <sys_created_by>hood.dev4</sys_created_by>
         <sys_created_on>2023-09-27 18:51:53</sys_created_on>
         <sys_id>aec64d291b6dfd10c4af117c0a4bcbe2</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>onBefore</sys_name>
         <sys_package display_value="Core Data Imp" source="x_carr5_cds_imp">2c83b0e1dbed39101b326fccd39619b8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Core Data Imp">2c83b0e1dbed39101b326fccd39619b8</sys_scope>
         <sys_update_name>sys_transform_script_aec64d291b6dfd10c4af117c0a4bcbe2</sys_update_name>
         <sys_updated_by>hood.dev4</sys_updated_by>
-        <sys_updated_on>2023-10-16 01:23:20</sys_updated_on>
+        <sys_updated_on>2023-10-20 15:46:13</sys_updated_on>
         <when>onBefore</when>
     </sys_transform_script>
 </record_update>
