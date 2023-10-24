@@ -8,12 +8,12 @@
 	target.sys_class_name = "x_carr5_coredata_org";
 	
 	var coreFedUtilFunction = new x_carr5_core_fed.coreFedUtil();
-	var instName = coreFedUtilFunction.instanceName;
+	var instSYSID = coreFedUtilFunction.instanceConfigSID;
 	
 	if (action == "insert") {
 		target.setNewGuidValue(source.x_carr5_cds_imp_fed_rec_sysid); 
 	}
-	else if(action == "update" && source.x_carr5_cds_imp_data_status == "clone" && source.x_carr5_cds_imp_source_instance == instName){
+	else if(action == "update" && source.x_carr5_cds_imp_data_status == "clone" && source.x_carr5_cds_imp_source_instance == instSYSID){
 		target.x_carr5_coredata_data_status = "received";
 	}
 	
@@ -25,14 +25,14 @@
         <sys_created_by>hood.dev4</sys_created_by>
         <sys_created_on>2023-09-27 18:51:53</sys_created_on>
         <sys_id>aec64d291b6dfd10c4af117c0a4bcbe2</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>onBefore</sys_name>
         <sys_package display_value="Core Data Imp" source="x_carr5_cds_imp">2c83b0e1dbed39101b326fccd39619b8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Core Data Imp">2c83b0e1dbed39101b326fccd39619b8</sys_scope>
         <sys_update_name>sys_transform_script_aec64d291b6dfd10c4af117c0a4bcbe2</sys_update_name>
         <sys_updated_by>abakas.admin</sys_updated_by>
-        <sys_updated_on>2023-10-24 17:35:36</sys_updated_on>
+        <sys_updated_on>2023-10-24 18:16:06</sys_updated_on>
         <when>onBefore</when>
     </sys_transform_script>
 </record_update>
