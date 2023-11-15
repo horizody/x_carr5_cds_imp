@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="DELETE">
+        <name>horizonodysseyllcdemo2</name>
+        <password>﷞﷟﷒21121f561baf2110d2a48516624bcb48﷬﷔1﷬﷭XzGZsDylt85qwGKN2b8igw==wKN_meEPv8tKOCkNqRFp_cWe9Jb1tDsv4w==﷮﷯</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>abakas.admin</sys_created_by>
+        <sys_created_on>2023-10-24 18:01:44</sys_created_on>
+        <sys_id>b5fd37461b8ab510d2a48516624bcb80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>horizonodysseyllcdemo2</sys_name>
+        <sys_package display_value="Core Data Imp" source="x_carr5_cds_imp">2c83b0e1dbed39101b326fccd39619b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Core Data Imp">2c83b0e1dbed39101b326fccd39619b8</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_b5fd37461b8ab510d2a48516624bcb80</sys_update_name>
+        <sys_updated_by>abakas.admin</sys_updated_by>
+        <sys_updated_on>2023-10-24 18:01:44</sys_updated_on>
+        <username>hood.dev4</username>
+    </sys_auth_profile_basic>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Core Data Imp">2c83b0e1dbed39101b326fccd39619b8</application>
+        <file_path/>
+        <instance_id>66265a1adb672918ae4c9027c59619c7</instance_id>
+        <instance_name>carnglobaldev</instance_name>
+        <name>sys_auth_profile_basic_b5fd37461b8ab510d2a48516624bcb80</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic"><sys_auth_profile_basic action="INSERT_OR_UPDATE"><name>horizonodysseyllcdemo2</name><password>﷞﷟﷒21121f561baf2110d2a48516624bcb48﷬﷔1﷬﷭XzGZsDylt85qwGKN2b8igw==wKN_meEPv8tKOCkNqRFp_cWe9Jb1tDsv4w==﷮﷯</password><sys_class_name>sys_auth_profile_basic</sys_class_name><sys_created_by>abakas.admin</sys_created_by><sys_created_on>2023-10-24 18:01:44</sys_created_on><sys_id>b5fd37461b8ab510d2a48516624bcb80</sys_id><sys_mod_count>0</sys_mod_count><sys_name>horizonodysseyllcdemo2</sys_name><sys_package display_value="Core Data Imp" source="x_carr5_cds_imp">2c83b0e1dbed39101b326fccd39619b8</sys_package><sys_policy/><sys_scope display_value="Core Data Imp">2c83b0e1dbed39101b326fccd39619b8</sys_scope><sys_update_name>sys_auth_profile_basic_b5fd37461b8ab510d2a48516624bcb80</sys_update_name><sys_updated_by>abakas.admin</sys_updated_by><sys_updated_on>2023-10-24 18:01:44</sys_updated_on><username>hood.dev4</username></sys_auth_profile_basic></record_update>]]></payload>
+        <payload_hash>1937027814</payload_hash>
+        <record_name>horizonodysseyllcdemo2</record_name>
+        <reverted_from/>
+        <source>82690b4edb4e31501b326fccd3961990</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>abakas.admin</sys_created_by>
+        <sys_created_on>2023-10-24 18:01:44</sys_created_on>
+        <sys_id>f17ef3861b8ab510d2a48516624bcbc1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b62d9841d0000001</sys_recorded_at>
+        <sys_updated_by>abakas.admin</sys_updated_by>
+        <sys_updated_on>2023-10-24 18:01:44</sys_updated_on>
+        <type>Basic Auth Configuration</type>
+        <update_guid>397ef3869a8ab510fe53f6d242ddcfc0</update_guid>
+        <update_guid_history>397ef3869a8ab510fe53f6d242ddcfc0:1937027814</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>abakas.admin</sys_created_by>
+        <sys_created_on>2023-10-24 18:01:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_auth_profile_basic">sys_auth_profile_basic</sys_db_object>
+        <sys_id>4134e2bef3004f3890c42b52283c0040</sys_id>
+        <sys_metadata>b5fd37461b8ab510d2a48516624bcb80</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>horizonodysseyllcdemo2</sys_name>
+        <sys_package display_value="Core Data Imp" source="x_carr5_cds_imp">2c83b0e1dbed39101b326fccd39619b8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Core Data Imp">2c83b0e1dbed39101b326fccd39619b8</sys_scope>
+        <sys_scope_delete display_value="">859357f83b3a48f0ac4d9fa9e9ed0100</sys_scope_delete>
+        <sys_update_name>sys_auth_profile_basic_b5fd37461b8ab510d2a48516624bcb80</sys_update_name>
+        <sys_update_version display_value="sys_auth_profile_basic_b5fd37461b8ab510d2a48516624bcb80">f17ef3861b8ab510d2a48516624bcbc1</sys_update_version>
+        <sys_updated_by>abakas.admin</sys_updated_by>
+        <sys_updated_on>2023-10-24 18:01:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
