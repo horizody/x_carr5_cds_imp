@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="75cba16b1be2fd10d2a48516624bcb24" extends="sys_import_set_row" label="Company Import" max_length="40" name="x_carr5_cds_imp_com_import" type="collection">
+        <element label="City" max_length="40" name="x_carr5_cds_imp_city" type="string"/>
+        <element label="Data Status" max_length="40" name="x_carr5_cds_imp_data_status" type="string"/>
+        <element label="Fed Rec SYSID" max_length="40" name="x_carr5_cds_imp_fed_rec_sysid" type="string"/>
+        <element label="manufacturer" max_length="40" name="x_carr5_cds_imp_manufacturer" type="string"/>
+        <element label="Name" max_length="40" name="x_carr5_cds_imp_name" type="string"/>
+        <element label="Record Status" max_length="40" name="x_carr5_cds_imp_record_status" type="string"/>
+        <element label="SOR Owner" max_length="40" name="x_carr5_cds_imp_sor_owner" type="string"/>
+        <element label="Source Instance" max_length="40" name="x_carr5_cds_imp_source_instance" type="string"/>
+        <element label="State" max_length="40" name="x_carr5_cds_imp_state" type="string"/>
+        <element label="Street" max_length="40" name="x_carr5_cds_imp_street" type="string"/>
+        <element label="Vendor" max_length="40" name="x_carr5_cds_imp_vendor" type="string"/>
+        <element label="ZIP / Postal Code" max_length="40" name="x_carr5_cds_imp_zip" type="string"/>
+    </element>
+</database>

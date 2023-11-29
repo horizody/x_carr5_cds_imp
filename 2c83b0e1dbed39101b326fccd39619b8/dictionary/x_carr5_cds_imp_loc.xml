@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8733bdef1be2fd10d2a48516624bcbff" extends="sys_import_set_row" label="LOC Import" max_length="40" name="x_carr5_cds_imp_loc" type="collection">
+        <element label="City" max_length="40" name="x_carr5_cds_imp_city" type="string"/>
+        <element label="Company" max_length="40" name="x_carr5_cds_imp_company" type="string"/>
+        <element label="Country" max_length="40" name="x_carr5_cds_imp_country" type="string"/>
+        <element label="Data Status" max_length="40" name="x_carr5_cds_imp_data_status" type="string"/>
+        <element label="Fed Rec SYSID" max_length="40" name="x_carr5_cds_imp_fed_rec_sysid" type="string"/>
+        <element label="Latitude" max_length="40" name="x_carr5_cds_imp_latitude" type="string"/>
+        <element label="Longitude" max_length="40" name="x_carr5_cds_imp_longitude" type="string"/>
+        <element label="Name" max_length="40" name="x_carr5_cds_imp_name" type="string"/>
+        <element label="Record Status" max_length="40" name="x_carr5_cds_imp_record_status" type="string"/>
+        <element label="SOR Owner" max_length="40" name="x_carr5_cds_imp_sor_owner" type="string"/>
+        <element label="Source Instance" max_length="40" name="x_carr5_cds_imp_source_instance" type="string"/>
+        <element label="State" max_length="40" name="x_carr5_cds_imp_state" type="string"/>
+        <element label="Street" max_length="40" name="x_carr5_cds_imp_street" type="string"/>
+        <element label="Time Zone" max_length="40" name="x_carr5_cds_imp_time_zone" type="string"/>
+        <element label="ZIP" max_length="40" name="x_carr5_cds_imp_zip" type="string"/>
+    </element>
+</database>
