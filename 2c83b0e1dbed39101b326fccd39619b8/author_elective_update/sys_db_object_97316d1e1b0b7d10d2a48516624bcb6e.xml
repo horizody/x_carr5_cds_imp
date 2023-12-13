@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Group Import</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_carr5_cds_imp_grp</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">ef4a92d21b2321107af886a7624bcba8</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>abakas.admin</sys_created_by>
+        <sys_created_on>2023-12-13 18:16:04</sys_created_on>
+        <sys_id>97316d1e1b0b7d10d2a48516624bcb6e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cds Imp Grp</sys_name>
+        <sys_package display_value="Core Data Imp" source="x_carr5_cds_imp">2c83b0e1dbed39101b326fccd39619b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Core Data Imp">2c83b0e1dbed39101b326fccd39619b8</sys_scope>
+        <sys_update_name>sys_db_object_97316d1e1b0b7d10d2a48516624bcb6e</sys_update_name>
+        <sys_updated_by>abakas.admin</sys_updated_by>
+        <sys_updated_on>2023-12-13 18:16:04</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Core Data Imp">2c83b0e1dbed39101b326fccd39619b8</application>
+        <file_path/>
+        <instance_id>66265a1adb672918ae4c9027c59619c7</instance_id>
+        <instance_name>carnglobaldev</instance_name>
+        <name>sys_db_object_97316d1e1b0b7d10d2a48516624bcb6e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Group Import</label><live_feed_enabled>false</live_feed_enabled><name>x_carr5_cds_imp_grp</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">ef4a92d21b2321107af886a7624bcba8</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>abakas.admin</sys_created_by><sys_created_on>2023-12-13 18:16:04</sys_created_on><sys_id>97316d1e1b0b7d10d2a48516624bcb6e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cds Imp Grp</sys_name><sys_package display_value="Core Data Imp" source="x_carr5_cds_imp">2c83b0e1dbed39101b326fccd39619b8</sys_package><sys_policy/><sys_scope display_value="Core Data Imp">2c83b0e1dbed39101b326fccd39619b8</sys_scope><sys_update_name>sys_db_object_97316d1e1b0b7d10d2a48516624bcb6e</sys_update_name><sys_updated_by>abakas.admin</sys_updated_by><sys_updated_on>2023-12-13 18:16:04</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-679011470</payload_hash>
+        <record_name>Group Import</record_name>
+        <reverted_from/>
+        <source>82690b4edb4e31501b326fccd3961990</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>abakas.admin</sys_created_by>
+        <sys_created_on>2023-12-13 18:16:05</sys_created_on>
+        <sys_id>6f316d1e1b0b7d10d2a48516624bcb87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c64649fbf0000001</sys_recorded_at>
+        <sys_updated_by>abakas.admin</sys_updated_by>
+        <sys_updated_on>2023-12-13 18:16:05</sys_updated_on>
+        <type>Table</type>
+        <update_guid>e3316d1ef30b7d1039f74c100d184187</update_guid>
+        <update_guid_history>e3316d1ef30b7d1039f74c100d184187:-679011470</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>abakas.admin</sys_created_by>
+        <sys_created_on>2023-12-13 19:28:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>7968a9a4f35e40808d77fb34eca0a979</sys_id>
+        <sys_metadata>97316d1e1b0b7d10d2a48516624bcb6e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cds Imp Grp</sys_name>
+        <sys_package display_value="Core Data Imp" source="x_carr5_cds_imp">2c83b0e1dbed39101b326fccd39619b8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Core Data Imp">2c83b0e1dbed39101b326fccd39619b8</sys_scope>
+        <sys_scope_delete display_value="">859357f83b3a48f0ac4d9fa9e9ed0100</sys_scope_delete>
+        <sys_update_name>sys_db_object_97316d1e1b0b7d10d2a48516624bcb6e</sys_update_name>
+        <sys_update_version display_value="sys_db_object_97316d1e1b0b7d10d2a48516624bcb6e">6f316d1e1b0b7d10d2a48516624bcb87</sys_update_version>
+        <sys_updated_by>abakas.admin</sys_updated_by>
+        <sys_updated_on>2023-12-13 19:28:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

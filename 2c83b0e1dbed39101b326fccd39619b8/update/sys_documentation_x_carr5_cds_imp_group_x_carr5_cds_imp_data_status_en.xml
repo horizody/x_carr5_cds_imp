@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_carr5_cds_imp_data_status" label="Data Status" language="en" table="x_carr5_cds_imp_group">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_carr5_cds_imp_data_status</element>
+            <help/>
+            <hint/>
+            <label>Data Status</label>
+            <language>en</language>
+            <name>x_carr5_cds_imp_group</name>
+            <plural>Data Status</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>abakas.admin</sys_created_by>
+            <sys_created_on>2023-12-13 15:33:01</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Data Status</sys_name>
+            <sys_package display_value="Core Data Imp" source="x_carr5_cds_imp">2c83b0e1dbed39101b326fccd39619b8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Core Data Imp">2c83b0e1dbed39101b326fccd39619b8</sys_scope>
+            <sys_update_name>sys_documentation_x_carr5_cds_imp_group_x_carr5_cds_imp_data_status_en</sys_update_name>
+            <sys_updated_by>abakas.admin</sys_updated_by>
+            <sys_updated_on>2023-12-13 15:33:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

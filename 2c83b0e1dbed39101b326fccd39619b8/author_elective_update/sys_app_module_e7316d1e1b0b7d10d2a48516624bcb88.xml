@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Web Services">18f23e670a0a0b2400c55b122be52373</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>User customized web service</hint>
+        <homepage/>
+        <image>images/icons/web_services_mapped.gifx</image>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Group Import</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1050</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>v_ws_editor.do?sysparm_query=name=x_carr5_cds_imp_grp</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>abakas.admin</sys_created_by>
+        <sys_created_on>2023-12-13 18:16:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e7316d1e1b0b7d10d2a48516624bcb88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Group Import</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Core Data Imp" source="x_carr5_cds_imp">2c83b0e1dbed39101b326fccd39619b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Core Data Imp">2c83b0e1dbed39101b326fccd39619b8</sys_scope>
+        <sys_update_name>sys_app_module_e7316d1e1b0b7d10d2a48516624bcb88</sys_update_name>
+        <sys_updated_by>abakas.admin</sys_updated_by>
+        <sys_updated_on>2023-12-13 18:16:05</sys_updated_on>
+        <timeline_page/>
+        <title>Group Import</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Core Data Imp">2c83b0e1dbed39101b326fccd39619b8</application>
+        <file_path/>
+        <instance_id>66265a1adb672918ae4c9027c59619c7</instance_id>
+        <instance_name>carnglobaldev</instance_name>
+        <name>sys_app_module_e7316d1e1b0b7d10d2a48516624bcb88</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Web Services">18f23e670a0a0b2400c55b122be52373</application><assessment/><device_type/><filter/><hint>User customized web service</hint><homepage/><image>images/icons/web_services_mapped.gifx</image><link_type>DIRECT</link_type><map_page/><mobile_title>Group Import</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>1050</order><override_menu_roles>false</override_menu_roles><query>v_ws_editor.do?sysparm_query=name=x_carr5_cds_imp_grp</query><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>abakas.admin</sys_created_by><sys_created_on>2023-12-13 18:16:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e7316d1e1b0b7d10d2a48516624bcb88</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Group Import</sys_name><sys_overrides/><sys_package display_value="Core Data Imp" source="x_carr5_cds_imp">2c83b0e1dbed39101b326fccd39619b8</sys_package><sys_policy/><sys_scope display_value="Core Data Imp">2c83b0e1dbed39101b326fccd39619b8</sys_scope><sys_update_name>sys_app_module_e7316d1e1b0b7d10d2a48516624bcb88</sys_update_name><sys_updated_by>abakas.admin</sys_updated_by><sys_updated_on>2023-12-13 18:16:05</sys_updated_on><timeline_page/><title>Group Import</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>2089574958</payload_hash>
+        <record_name>Group Import</record_name>
+        <reverted_from/>
+        <source>82690b4edb4e31501b326fccd3961990</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>abakas.admin</sys_created_by>
+        <sys_created_on>2023-12-13 18:16:05</sys_created_on>
+        <sys_id>2f316d1e1b0b7d10d2a48516624bcb8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c6464a0010000001</sys_recorded_at>
+        <sys_updated_by>abakas.admin</sys_updated_by>
+        <sys_updated_on>2023-12-13 18:16:05</sys_updated_on>
+        <type>Module</type>
+        <update_guid>63316d1ec10b7d10129e0a803374338b</update_guid>
+        <update_guid_history>63316d1ec10b7d10129e0a803374338b:2089574958</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Group Import">bec1b51e1b4b7d10d2a48516624bcbf6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>abakas.admin</sys_created_by>
+        <sys_created_on>2023-12-13 19:28:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>5799a94c2fc648a4ac44120781b3fc89</sys_id>
+        <sys_metadata>e7316d1e1b0b7d10d2a48516624bcb88</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Group Import</sys_name>
+        <sys_package display_value="Core Data Imp" source="x_carr5_cds_imp">2c83b0e1dbed39101b326fccd39619b8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Core Data Imp">2c83b0e1dbed39101b326fccd39619b8</sys_scope>
+        <sys_scope_delete display_value="">859357f83b3a48f0ac4d9fa9e9ed0100</sys_scope_delete>
+        <sys_update_name>sys_app_module_e7316d1e1b0b7d10d2a48516624bcb88</sys_update_name>
+        <sys_update_version display_value="sys_app_module_e7316d1e1b0b7d10d2a48516624bcb88">2f316d1e1b0b7d10d2a48516624bcb8b</sys_update_version>
+        <sys_updated_by>abakas.admin</sys_updated_by>
+        <sys_updated_on>2023-12-13 19:28:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
