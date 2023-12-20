@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_script">
+    <sys_transform_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <map display_value="Group Import TM">70e1b8981b937550d2a48516624bcbf5</map>
+        <order>100</order>
+        <script><![CDATA[(function runTransformScript(source, map, log, target /*undefined onStart*/ ) {
+
+	if (action == "insert") {
+		target.setNewGuidValue(source.x_carr5_cds_imp_fed_rec_sysid); 
+	}
+
+})(source, map, log, target);]]></script>
+        <sys_class_name>sys_transform_script</sys_class_name>
+        <sys_created_by>abakas.admin</sys_created_by>
+        <sys_created_on>2023-12-19 20:18:10</sys_created_on>
+        <sys_id>c9a634dc1b937550d2a48516624bcb1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>onBefore</sys_name>
+        <sys_package display_value="Core Data Imp" source="x_carr5_cds_imp">2c83b0e1dbed39101b326fccd39619b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Core Data Imp">2c83b0e1dbed39101b326fccd39619b8</sys_scope>
+        <sys_update_name>sys_transform_script_c9a634dc1b937550d2a48516624bcb1d</sys_update_name>
+        <sys_updated_by>abakas.admin</sys_updated_by>
+        <sys_updated_on>2023-12-19 20:18:10</sys_updated_on>
+        <when>onBefore</when>
+    </sys_transform_script>
+</record_update>
