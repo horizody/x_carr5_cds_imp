@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="30c1b77bdbcb39101b326fccd3961978" extends="sys_import_set_row" label="User Import" max_length="40" name="x_carr5_cds_imp_user" type="collection">
-        <element label="User ID" max_length="40" name="user_id" type="string"/>
         <element choice_field="fed_data_status" choice_table="x_carr5_core_fed_config_choice" label="Data Status" max_length="40" name="x_carr5_cds_imp_data_status" type="string"/>
         <element label="Email" max_length="40" name="x_carr5_cds_imp_email" type="string"/>
         <element label="Fed Rec SYSID" max_length="40" name="x_carr5_cds_imp_fed_rec_sysid" type="string"/>
