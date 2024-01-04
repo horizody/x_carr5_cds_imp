@@ -5,6 +5,7 @@
         <element label="Fed Rec SYSID" max_length="40" name="x_carr5_cds_imp_fed_rec_sysid" type="string"/>
         <element label="First Name" max_length="40" name="x_carr5_cds_imp_first_name" type="string"/>
         <element label="Last Name" max_length="40" name="x_carr5_cds_imp_last_name" type="string"/>
+        <element label="Local Only" max_length="40" name="x_carr5_cds_imp_local_only" type="string"/>
         <element label="Name" max_length="40" name="x_carr5_cds_imp_name" type="string"/>
         <element label="Language" max_length="40" name="x_carr5_cds_imp_preferred_language" type="string"/>
         <element choice_field="fed_record_status" choice_table="x_carr5_core_fed_config_choice" label="Record Status" max_length="40" name="x_carr5_cds_imp_record_status" type="string"/>

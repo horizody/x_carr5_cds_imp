@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="b23098d11ba6b510d2a48516624bcbd7" extends="sys_import_set_row" label="BU Unit Import" max_length="40" name="x_carr5_cds_imp_bus_unit_import" type="collection">
+        <element label="Local Only" max_length="40" name="local_only" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_data_status" label="Data Status" max_length="40" name="x_carr5_cds_imp_data_status" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_description" label="Description" max_length="40" name="x_carr5_cds_imp_description" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_fed_rec_sysid" label="Fed Rec SYSID" max_length="40" name="x_carr5_cds_imp_fed_rec_sysid" type="string"/>

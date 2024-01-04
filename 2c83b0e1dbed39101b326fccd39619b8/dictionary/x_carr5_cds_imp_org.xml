@@ -5,6 +5,7 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_fed_rec_sysid" label="Fed Rec SYSID" max_length="40" name="x_carr5_cds_imp_fed_rec_sysid" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_head_count" label="Head Count" max_length="40" name="x_carr5_cds_imp_head_count" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_id" label="ID" max_length="40" name="x_carr5_cds_imp_id" type="string"/>
+        <element label="Local Only" max_length="40" name="x_carr5_cds_imp_local_only" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_name" label="Name" max_length="40" name="x_carr5_cds_imp_name" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_record_status" label="Record Status" max_length="40" name="x_carr5_cds_imp_record_status" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_sor_owner" label="SOR Owner" max_length="40" name="x_carr5_cds_imp_sor_owner" type="string"/>

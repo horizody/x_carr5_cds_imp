@@ -3,6 +3,7 @@
         <element label="Data Status" max_length="40" name="x_carr5_cds_imp_data_status" type="string"/>
         <element label="Description" max_length="40" name="x_carr5_cds_imp_description" type="string"/>
         <element label="Fed Rec SYSID" max_length="40" name="x_carr5_cds_imp_fed_rec_sysid" type="string"/>
+        <element label="Local Only" max_length="40" name="x_carr5_cds_imp_local_only" type="string"/>
         <element label="Name" max_length="40" name="x_carr5_cds_imp_name" type="string"/>
         <element label="Parent Group" max_length="40" name="x_carr5_cds_imp_parent" type="string"/>
         <element label="Record Status" max_length="40" name="x_carr5_cds_imp_record_status" type="string"/>
