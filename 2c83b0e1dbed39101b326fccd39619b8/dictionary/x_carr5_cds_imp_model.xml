@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6bc41b55db6371901b326fccd3961989" extends="sys_import_set_row" label="Model Import" max_length="40" name="x_carr5_cds_imp_model" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_barcode" label="Barcode" max_length="40" name="x_carr5_cds_imp_barcode" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_cost" label="Cost" max_length="40" name="x_carr5_cds_imp_cost" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_data_status" label="Data Status" max_length="40" name="x_carr5_cds_imp_data_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_depreciation" label="Depreciation" max_length="40" name="x_carr5_cds_imp_depreciation" type="string"/>
+        <element label="Expenditure type" max_length="40" name="x_carr5_cds_imp_expenditure_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_fed_rec_sysid" label="Fed Rec SYSID" max_length="40" name="x_carr5_cds_imp_fed_rec_sysid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_local_only" label="Local Only" max_length="40" name="x_carr5_cds_imp_local_only" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_manufacturer" label="Manufacturer" max_length="40" name="x_carr5_cds_imp_manufacturer" type="string"/>
+        <element label="Model Categories" max_length="40" name="x_carr5_cds_imp_model_categories" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_model_number" label="Model number" max_length="40" name="x_carr5_cds_imp_model_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_name" label="Name" max_length="40" name="x_carr5_cds_imp_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_record_status" label="Record Status" max_length="40" name="x_carr5_cds_imp_record_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_salvage_value" label="Salvage Value" max_length="40" name="x_carr5_cds_imp_salvage_value" type="string"/>
+        <element label="Short Description" max_length="40" name="x_carr5_cds_imp_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=x_carr5_cds_imp_sor_owner" label="SOR Owner" max_length="40" name="x_carr5_cds_imp_sor_owner" type="string"/>
+        <element label="Source Instance" max_length="40" name="x_carr5_cds_imp_source_instance" type="string"/>
+    </element>
+</database>
