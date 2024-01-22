@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="c724264f1bfff150d2a48516624bcb6c" sys_domain="global" table="x_carr5_cds_imp_model_cat" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>abakas.admin</sys_created_by>
+            <sys_created_on>2024-01-22 13:51:03</sys_created_on>
+            <sys_id>0f24268f1bfff150d2a48516624bcb0c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_carr5_cds_imp_model_cat" sys_domain="global" view="Default view">c724264f1bfff150d2a48516624bcb6c</sys_ui_section>
+            <sys_updated_by>abakas.admin</sys_updated_by>
+            <sys_updated_on>2024-01-22 13:51:03</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_carr5_cds_imp_source_instance</element>
+            <position>1</position>
+            <sys_created_by>abakas.admin</sys_created_by>
+            <sys_created_on>2024-01-22 13:51:03</sys_created_on>
+            <sys_id>c324268f1bfff150d2a48516624bcb0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_carr5_cds_imp_model_cat" sys_domain="global" view="Default view">c724264f1bfff150d2a48516624bcb6c</sys_ui_section>
+            <sys_updated_by>abakas.admin</sys_updated_by>
+            <sys_updated_on>2024-01-22 13:51:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_carr5_cds_imp_sor_owner</element>
+            <position>2</position>
+            <sys_created_by>abakas.admin</sys_created_by>
+            <sys_created_on>2024-01-22 13:51:03</sys_created_on>
+            <sys_id>4724268f1bfff150d2a48516624bcb0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_carr5_cds_imp_model_cat" sys_domain="global" view="Default view">c724264f1bfff150d2a48516624bcb6c</sys_ui_section>
+            <sys_updated_by>abakas.admin</sys_updated_by>
+            <sys_updated_on>2024-01-22 13:51:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_carr5_cds_imp_local_only</element>
+            <position>3</position>
+            <sys_created_by>abakas.admin</sys_created_by>
+            <sys_created_on>2024-01-22 13:51:03</sys_created_on>
+            <sys_id>c724268f1bfff150d2a48516624bcb0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_carr5_cds_imp_model_cat" sys_domain="global" view="Default view">c724264f1bfff150d2a48516624bcb6c</sys_ui_section>
+            <sys_updated_by>abakas.admin</sys_updated_by>
+            <sys_updated_on>2024-01-22 13:51:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_carr5_cds_imp_fed_rec_sysid</element>
+            <position>4</position>
+            <sys_created_by>abakas.admin</sys_created_by>
+            <sys_created_on>2024-01-22 13:51:03</sys_created_on>
+            <sys_id>4b24268f1bfff150d2a48516624bcb0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_carr5_cds_imp_model_cat" sys_domain="global" view="Default view">c724264f1bfff150d2a48516624bcb6c</sys_ui_section>
+            <sys_updated_by>abakas.admin</sys_updated_by>
+            <sys_updated_on>2024-01-22 13:51:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_carr5_cds_imp_record_status</element>
+            <position>5</position>
+            <sys_created_by>abakas.admin</sys_created_by>
+            <sys_created_on>2024-01-22 13:51:03</sys_created_on>
+            <sys_id>cb24268f1bfff150d2a48516624bcb0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_carr5_cds_imp_model_cat" sys_domain="global" view="Default view">c724264f1bfff150d2a48516624bcb6c</sys_ui_section>
+            <sys_updated_by>abakas.admin</sys_updated_by>
+            <sys_updated_on>2024-01-22 13:51:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_carr5_cds_imp_data_status</element>
+            <position>6</position>
+            <sys_created_by>abakas.admin</sys_created_by>
+            <sys_created_on>2024-01-22 13:51:03</sys_created_on>
+            <sys_id>4f24268f1bfff150d2a48516624bcb0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_carr5_cds_imp_model_cat" sys_domain="global" view="Default view">c724264f1bfff150d2a48516624bcb6c</sys_ui_section>
+            <sys_updated_by>abakas.admin</sys_updated_by>
+            <sys_updated_on>2024-01-22 13:51:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_carr5_cds_imp_name</element>
+            <position>7</position>
+            <sys_created_by>abakas.admin</sys_created_by>
+            <sys_created_on>2024-01-22 13:51:03</sys_created_on>
+            <sys_id>cf24268f1bfff150d2a48516624bcb0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_carr5_cds_imp_model_cat" sys_domain="global" view="Default view">c724264f1bfff150d2a48516624bcb6c</sys_ui_section>
+            <sys_updated_by>abakas.admin</sys_updated_by>
+            <sys_updated_on>2024-01-22 13:51:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>abakas.admin</sys_created_by>
+            <sys_created_on>2024-01-22 13:51:03</sys_created_on>
+            <sys_id>4324268f1bfff150d2a48516624bcb0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_carr5_cds_imp_model_cat" sys_domain="global" view="Default view">c724264f1bfff150d2a48516624bcb6c</sys_ui_section>
+            <sys_updated_by>abakas.admin</sys_updated_by>
+            <sys_updated_on>2024-01-22 13:51:03</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_carr5_cds_imp_parent_category</element>
+            <position>9</position>
+            <sys_created_by>abakas.admin</sys_created_by>
+            <sys_created_on>2024-01-22 13:51:03</sys_created_on>
+            <sys_id>c324268f1bfff150d2a48516624bcb0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_carr5_cds_imp_model_cat" sys_domain="global" view="Default view">c724264f1bfff150d2a48516624bcb6c</sys_ui_section>
+            <sys_updated_by>abakas.admin</sys_updated_by>
+            <sys_updated_on>2024-01-22 13:51:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_carr5_cds_imp_code</element>
+            <position>10</position>
+            <sys_created_by>abakas.admin</sys_created_by>
+            <sys_created_on>2024-01-22 13:51:03</sys_created_on>
+            <sys_id>4724268f1bfff150d2a48516624bcb0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_carr5_cds_imp_model_cat" sys_domain="global" view="Default view">c724264f1bfff150d2a48516624bcb6c</sys_ui_section>
+            <sys_updated_by>abakas.admin</sys_updated_by>
+            <sys_updated_on>2024-01-22 13:51:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_carr5_cds_imp_prd_model_class</element>
+            <position>11</position>
+            <sys_created_by>abakas.admin</sys_created_by>
+            <sys_created_on>2024-01-22 13:51:03</sys_created_on>
+            <sys_id>c724268f1bfff150d2a48516624bcb0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_carr5_cds_imp_model_cat" sys_domain="global" view="Default view">c724264f1bfff150d2a48516624bcb6c</sys_ui_section>
+            <sys_updated_by>abakas.admin</sys_updated_by>
+            <sys_updated_on>2024-01-22 13:51:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_carr5_cds_imp_asset_class</element>
+            <position>12</position>
+            <sys_created_by>abakas.admin</sys_created_by>
+            <sys_created_on>2024-01-22 13:51:03</sys_created_on>
+            <sys_id>4b24268f1bfff150d2a48516624bcb0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_carr5_cds_imp_model_cat" sys_domain="global" view="Default view">c724264f1bfff150d2a48516624bcb6c</sys_ui_section>
+            <sys_updated_by>abakas.admin</sys_updated_by>
+            <sys_updated_on>2024-01-22 13:51:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_carr5_cds_imp_alw_pre_alloc</element>
+            <position>13</position>
+            <sys_created_by>abakas.admin</sys_created_by>
+            <sys_created_on>2024-01-22 13:51:03</sys_created_on>
+            <sys_id>cb24268f1bfff150d2a48516624bcb0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_carr5_cds_imp_model_cat" sys_domain="global" view="Default view">c724264f1bfff150d2a48516624bcb6c</sys_ui_section>
+            <sys_updated_by>abakas.admin</sys_updated_by>
+            <sys_updated_on>2024-01-22 13:51:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_carr5_cds_imp_alw_in_bundle</element>
+            <position>14</position>
+            <sys_created_by>abakas.admin</sys_created_by>
+            <sys_created_on>2024-01-22 13:51:03</sys_created_on>
+            <sys_id>4f24268f1bfff150d2a48516624bcb0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_carr5_cds_imp_model_cat" sys_domain="global" view="Default view">c724264f1bfff150d2a48516624bcb6c</sys_ui_section>
+            <sys_updated_by>abakas.admin</sys_updated_by>
+            <sys_updated_on>2024-01-22 13:51:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_carr5_cds_imp_allow_as_main</element>
+            <position>15</position>
+            <sys_created_by>abakas.admin</sys_created_by>
+            <sys_created_on>2024-01-22 13:51:03</sys_created_on>
+            <sys_id>cf24268f1bfff150d2a48516624bcb0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_carr5_cds_imp_model_cat" sys_domain="global" view="Default view">c724264f1bfff150d2a48516624bcb6c</sys_ui_section>
+            <sys_updated_by>abakas.admin</sys_updated_by>
+            <sys_updated_on>2024-01-22 13:51:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>16</position>
+            <sys_created_by>abakas.admin</sys_created_by>
+            <sys_created_on>2024-01-22 13:51:03</sys_created_on>
+            <sys_id>4324268f1bfff150d2a48516624bcb0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_carr5_cds_imp_model_cat" sys_domain="global" view="Default view">c724264f1bfff150d2a48516624bcb6c</sys_ui_section>
+            <sys_updated_by>abakas.admin</sys_updated_by>
+            <sys_updated_on>2024-01-22 13:51:03</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_carr5_cds_imp_model_cat</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>abakas.admin</sys_created_by>
+            <sys_created_on>2024-01-22 13:51:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c724264f1bfff150d2a48516624bcb6c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_carr5_cds_imp_model_cat</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Core Data Imp" source="x_carr5_cds_imp">2c83b0e1dbed39101b326fccd39619b8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Core Data Imp">2c83b0e1dbed39101b326fccd39619b8</sys_scope>
+            <sys_update_name>sys_ui_section_c724264f1bfff150d2a48516624bcb6c</sys_update_name>
+            <sys_updated_by>abakas.admin</sys_updated_by>
+            <sys_updated_on>2024-01-22 13:51:02</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
